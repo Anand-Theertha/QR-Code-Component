@@ -47,6 +47,6 @@ Styles are built using vanilla CSS.
 
 ## Author
 
-- Frontend Mentor profile - [Anand-Theertha](https://www.frontendmentor.io/profile/Anand-Theertha)
+- Frontend Mentor profile - [@Anand-Theertha](https://www.frontendmentor.io/profile/Anand-Theertha)
 - LinkedIn - [@Anand Theertha](https://www.linkedin.com/in/anand-theertha-a118a3191/)
 
