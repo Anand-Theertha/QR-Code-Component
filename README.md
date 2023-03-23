@@ -19,7 +19,7 @@ The live project is hosted on [Netlify](https://anandtheertha-qr-code-component.
 
 ## Overview
 
-A simple single card component.
+A simple single card component that displays the QR code. 
 
 Styles are built using vanilla CSS. 
 
@@ -47,6 +47,6 @@ Styles are built using vanilla CSS.
 
 ## Author
 
-- Frontend Mentor profile - [@Anand-Theertha](https://www.frontendmentor.io/profile/grace-snow](https://www.frontendmentor.io/profile/Anand-Theertha)
-- LinkedIn - [@Anand Theertha](https://twitter.com/gracesnow](https://www.linkedin.com/in/anand-theertha-a118a3191/)
+- Frontend Mentor profile - [Anand-Theertha](https://www.frontendmentor.io/profile/Anand-Theertha)
+- LinkedIn - [@Anand Theertha](https://www.linkedin.com/in/anand-theertha-a118a3191/)
 
