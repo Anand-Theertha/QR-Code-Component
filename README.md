@@ -4,9 +4,11 @@
 
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-The live project is hosted on [Netlify](https://anandtheertha-qr-code-component.netlify.app/)
+[Frontend Mentor](https://www.frontendmentor.io)  challenges help you improve your coding skills by building realistic projects.
+
+The project is hosted live on [Netlify](https://anandtheertha-qr-code-component.netlify.app/)
 
 ## Table of contents
 
